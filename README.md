@@ -1,6 +1,6 @@
 # timezone
 
-A new Flutter project.
+A World Clock App Project Developed in Flutter
 
 ## Getting Started
 
